@@ -1,4 +1,4 @@
-<h2> :raising_hand_man: Olá! Me chamo Matheus Roque, seja bem-vindo ou bem-vinda ao meu github! </h2>
+<h3> :raising_hand_man: Olá! Me chamo Matheus Roque, seja bem-vindo ou bem-vinda ao meu github! </h3>
 
 <div>
   <div>
